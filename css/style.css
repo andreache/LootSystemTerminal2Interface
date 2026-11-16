@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e3c1ab;
+  color: #333333;
+  margin: 0; 
+  padding: 20px; 
+}
+header {
+  text-align: center; 
+  margin-bottom: 30px; 
+}
+main {
+  background-color: #e3c1ab;
+  max-width: 600px; 
+  margin: 0 auto; 
+  padding: 20px; 
+  border: 1px solid #cccccc;
+}
+h1, h2 {
+  color: #333333;
+}
+label {
+  display: block; 
+  margin-top: 15px; 
+}
+input {
+  padding: 5px;
+  margin: 5px;
+}
+
+button {
+  background-color: #614737;
+  color: white;
+  padding: 10px;
+}
+
+#validationMessage {
+  color: darkred;
+}
